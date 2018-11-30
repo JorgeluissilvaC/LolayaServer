@@ -38,7 +38,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'tracking',
-    'rest_framework',
 )
 
 MIDDLEWARE_CLASSES = (
